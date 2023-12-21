@@ -56,6 +56,7 @@ This project utilizes YOLO v8 for object detection on images containing toxic sn
     - Explore automated annotation options provided by Roboflow.
 
 ![image](https://github.com/reygaferdiansyah/Yolo8_With_Roboflow/assets/54634029/820627c2-4cb2-4f66-94aa-4d7443773d7d)
+
 ![image](https://github.com/reygaferdiansyah/Yolo8_With_Roboflow/assets/54634029/6b28c66b-ceaf-481e-b085-10752f7f1414)
 
 ## Data Augmentation
@@ -66,6 +67,7 @@ This project utilizes YOLO v8 for object detection on images containing toxic sn
 7. **Applying Augmentation:**
     - Apply data augmentation to your images using Roboflow.
 This project leverages data augmentation from Roboflow to enrich the training dataset. To access the dataset and additional data augmentation, you can register at [Roboflow](https://roboflow.com/).
+
 ## Exporting Datasets
 
 8. **Exporting Datasets:**
@@ -73,17 +75,26 @@ This project leverages data augmentation from Roboflow to enrich the training da
 
 9. **Integration with Machine Learning Frameworks:**
     - Integrate your processed dataset with popular machine learning frameworks.
+    - 
 ![image](https://github.com/reygaferdiansyah/Yolo8_With_Roboflow/assets/54634029/00538e77-f3dc-4a2e-ae0a-1bc0811f4c01)
-Confusion matrix digunakan untuk mengevaluasi kinerja suatu model klasifikasi dengan membandingkan hasil prediksi model dengan label sebenarnya dari objek. Yang ditunjukkan pada gambar 6, terdapat 10 class siput beracun dalam confusion matrix.
+
+Confusion matrix is used to evaluate the performance of a classification model by comparing the predicted results of the model with the actual label of the object. As shown in the figure, there are 10 classes of poisonous snails in the confusion matrix.
 
 ![image](https://github.com/reygaferdiansyah/Yolo8_With_Roboflow/assets/54634029/17f1ad6a-8ea7-4415-84bc-dc9ef7c63d3f)
-Confusion matrix normalized, juga dikenal sebagai confusion matrix yang dinormalisasi, adalah representasi confusion matrix yang menggambarkan proporsi atau persentase dari kesalahan klasifikasi dalam setiap kelas. Hal ini membantu dalam memperoleh pemahaman yang lebih baik tentang kinerja model klasifikasi dalam mengklasifikasikan berbagai kelas seperti yang ditunjukkan pada gambar 
+
+The normalized confusion matrix, also known as the normalized confusion matrix, is a representation of the confusion matrix that describes the proportion or percentage of misclassifications within each class. This helps in gaining a better understanding of the performance of the classification model in classifying various classes as shown in the figure 
 
 ![image](https://github.com/reygaferdiansyah/Yolo8_With_Roboflow/assets/54634029/c98f0eb4-5ce3-4518-9dc9-c236b618cc5a)
 
-hasil dari pelatihan model sebanyak 50 epoch. model tersebut dapat digunakan untuk mendeteksi objek pada gambar atau video yang belum pernah dilihat sebelumnya. Proses deteksi objek melibatkan melewati gambar atau video melalui model YOLOv8, di mana model tersebut akan menentukan lokasi dan label kelas objek pada gambar atau video tersebut.
+As a result of training the model for 50 epochs, the model can be used to detect objects in images or videos that have never been seen before. The object detection process involves passing the image or video through the YOLOv8 model, where the model will determine the location and class label of the object in the image or video.
 
+![1](https://github.com/reygaferdiansyah/Yolo8_With_Roboflow/assets/54634029/b6fe22a0-3da0-494f-95bc-cdffa455408c)
 
+![3](https://github.com/reygaferdiansyah/Yolo8_With_Roboflow/assets/54634029/eac631bb-a0a7-4645-9296-f6dbde913cbc)
 
+![2](https://github.com/reygaferdiansyah/Yolo8_With_Roboflow/assets/54634029/16f88fc4-abf6-4da5-99b8-d8d4e439eb30)
 
+![4](https://github.com/reygaferdiansyah/Yolo8_With_Roboflow/assets/54634029/7c4265dd-8840-4336-9a26-9895188ffe15)
+
+![5](https://github.com/reygaferdiansyah/Yolo8_With_Roboflow/assets/54634029/c6193cc7-fa20-4d12-a153-687f8842ba19)
 
