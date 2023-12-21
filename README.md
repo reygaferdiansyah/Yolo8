@@ -21,7 +21,7 @@ This project utilizes YOLO v8 for object detection on images containing toxic sn
 1. Download or clone this repository:
 
     ```bash
-    git clone https://github.com/username/toxic-snail-object-detection.git
+    gh repo clone reygaferdiansyah/Yolo8_With_Roboflow
     ```
 
 2. Install the required dependencies:
