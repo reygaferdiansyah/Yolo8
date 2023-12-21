@@ -1,6 +1,8 @@
 # Object Detection Optimization with Segmentation and Data Augmentation on Toxic Snail Species using YOLO v8 and Roboflow
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+![python version](https://img.shields.io/badge/python-3.6%2C3.7%2C3.8-blue?logo=python)
+![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
+[![Roboflow](https://raw.githubusercontent.com/roboflow-ai/notebooks/main/assets/badges/roboflow-blogpost.svg)]
 
 This project aims to optimize object detection for toxic snail species by leveraging segmentation and data augmentation techniques. The algorithm employed in this project is YOLO (You Only Look Once) version 8, with data augmentation processing obtained through Roboflow.
 
