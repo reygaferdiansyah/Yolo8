@@ -101,3 +101,7 @@ As a result of training the model for 50 epochs, the model can be used to detect
 
 ![5](https://github.com/reygaferdiansyah/Yolo8_With_Roboflow/assets/54634029/c6193cc7-fa20-4d12-a153-687f8842ba19)
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for more details.
+
