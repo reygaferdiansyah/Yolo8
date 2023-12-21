@@ -103,5 +103,5 @@ As a result of training the model for 50 epochs, the model can be used to detect
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for more details.
+- **AGPL-3.0 License**: This [OSI-approved](https://opensource.org/licenses/) open-source license is ideal for students and enthusiasts, promoting open collaboration and knowledge sharing. See the [LICENSE](LICENSE) file for more details.
 
