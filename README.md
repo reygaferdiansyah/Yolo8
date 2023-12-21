@@ -1,5 +1,6 @@
 # Object Detection Optimization with Segmentation and Data Augmentation on Toxic Snail Species using YOLO v8 and Roboflow
 
+[![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL--3.0-blue.svg)](https://opensource.org/licenses/AGPL-3.0)
 ![python version](https://img.shields.io/badge/python-3.6%2C3.7%2C3.8-blue?logo=python)
 ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
 ![Roboflow](https://raw.githubusercontent.com/roboflow-ai/notebooks/main/assets/badges/roboflow-blogpost.svg)
